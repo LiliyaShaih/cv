@@ -52,8 +52,7 @@ section {
     text-decoration: none;
 }
 
-.header__list-link:active,
-.link-active {
+.header__list-link:active {
     color: #070707;
 }
 
